@@ -1,0 +1,5 @@
+.bash*
+.cshrc
+.gitconfig
+.ssh/
+.tcshrc
